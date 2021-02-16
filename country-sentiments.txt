@@ -1,0 +1,100 @@
+{"country": "United States", "averageSentiment": 3.0}
+{"country": "Canada", "averageSentiment": 4.0}
+{"country": "Costa Rica", "averageSentiment": 2.0}
+{"country": "Brazil", "averageSentiment": 1.0}
+{"country": "United Kingdom", "averageSentiment": 2.0}
+{"country": "United States", "averageSentiment": 3.0}
+{"country": "Canada", "averageSentiment": 4.0}
+{"country": "Costa Rica", "averageSentiment": 4.0}
+{"country": "Brazil", "averageSentiment": 1.0}
+{"country": "United Kingdom", "averageSentiment": 4.0}
+{"country": "United States", "averageSentiment": 3.0}
+{"country": "Canada", "averageSentiment": 2.0}
+{"country": "Costa Rica", "averageSentiment": 2.0}
+{"country": "Brazil", "averageSentiment": 2.0}
+{"country": "United Kingdom", "averageSentiment": 3.0}
+{"country": "United States", "averageSentiment": 1.0}
+{"country": "Canada", "averageSentiment": 3.0}
+{"country": "Costa Rica", "averageSentiment": 2.0}
+{"country": "Brazil", "averageSentiment": 3.0}
+{"country": "United Kingdom", "averageSentiment": 2.0}
+{"country": "United States", "averageSentiment": 1.0}
+{"country": "Canada", "averageSentiment": 2.0}
+{"country": "Costa Rica", "averageSentiment": 2.0}
+{"country": "Brazil", "averageSentiment": 1.0}
+{"country": "United Kingdom", "averageSentiment": 3.0}
+{"country": "United States", "averageSentiment": 3.0}
+{"country": "Canada", "averageSentiment": 3.0}
+{"country": "Costa Rica", "averageSentiment": 1.0}
+{"country": "Brazil", "averageSentiment": 4.0}
+{"country": "United Kingdom", "averageSentiment": 2.0}
+{"country": "United States", "averageSentiment": 4.0}
+{"country": "Canada", "averageSentiment": 3.0}
+{"country": "Costa Rica", "averageSentiment": 2.0}
+{"country": "Brazil", "averageSentiment": 3.0}
+{"country": "United Kingdom", "averageSentiment": 2.0}
+{"country": "United States", "averageSentiment": 2.0}
+{"country": "Canada", "averageSentiment": 2.0}
+{"country": "Costa Rica", "averageSentiment": 2.0}
+{"country": "Brazil", "averageSentiment": 4.0}
+{"country": "United Kingdom", "averageSentiment": 1.0}
+{"country": "United States", "averageSentiment": 3.0}
+{"country": "Canada", "averageSentiment": 3.0}
+{"country": "Costa Rica", "averageSentiment": 1.0}
+{"country": "Brazil", "averageSentiment": 2.0}
+{"country": "United Kingdom", "averageSentiment": 4.0}
+{"country": "United States", "averageSentiment": 3.0}
+{"country": "Canada", "averageSentiment": 2.0}
+{"country": "Costa Rica", "averageSentiment": 3.0}
+{"country": "Brazil", "averageSentiment": 1.0}
+{"country": "United Kingdom", "averageSentiment": 3.0}
+{"country": "United States", "averageSentiment": 4.0}
+{"country": "Canada", "averageSentiment": 4.0}
+{"country": "Costa Rica", "averageSentiment": 4.0}
+{"country": "Brazil", "averageSentiment": 4.0}
+{"country": "United Kingdom", "averageSentiment": 1.0}
+{"country": "United States", "averageSentiment": 4.0}
+{"country": "Canada", "averageSentiment": 1.0}
+{"country": "Costa Rica", "averageSentiment": 1.0}
+{"country": "Brazil", "averageSentiment": 3.0}
+{"country": "United Kingdom", "averageSentiment": 1.0}
+{"country": "United States", "averageSentiment": 4.0}
+{"country": "Canada", "averageSentiment": 4.0}
+{"country": "Costa Rica", "averageSentiment": 1.0}
+{"country": "Brazil", "averageSentiment": 4.0}
+{"country": "United Kingdom", "averageSentiment": 3.0}
+{"country": "United States", "averageSentiment": 4.0}
+{"country": "Canada", "averageSentiment": 1.0}
+{"country": "Costa Rica", "averageSentiment": 3.0}
+{"country": "Brazil", "averageSentiment": 4.0}
+{"country": "United Kingdom", "averageSentiment": 2.0}
+{"country": "United States", "averageSentiment": 4.0}
+{"country": "Canada", "averageSentiment": 4.0}
+{"country": "Costa Rica", "averageSentiment": 2.0}
+{"country": "Brazil", "averageSentiment": 4.0}
+{"country": "United Kingdom", "averageSentiment": 1.0}
+{"country": "United States", "averageSentiment": 2.0}
+{"country": "Canada", "averageSentiment": 2.0}
+{"country": "Costa Rica", "averageSentiment": 2.0}
+{"country": "Brazil", "averageSentiment": 2.0}
+{"country": "United Kingdom", "averageSentiment": 4.0}
+{"country": "United States", "averageSentiment": 3.0}
+{"country": "Canada", "averageSentiment": 3.0}
+{"country": "Costa Rica", "averageSentiment": 2.0}
+{"country": "Brazil", "averageSentiment": 3.0}
+{"country": "United Kingdom", "averageSentiment": 4.0}
+{"country": "United States", "averageSentiment": 1.0}
+{"country": "Canada", "averageSentiment": 2.0}
+{"country": "Costa Rica", "averageSentiment": 1.0}
+{"country": "Brazil", "averageSentiment": 3.0}
+{"country": "United Kingdom", "averageSentiment": 3.0}
+{"country": "United States", "averageSentiment": 1.0}
+{"country": "Canada", "averageSentiment": 2.0}
+{"country": "Costa Rica", "averageSentiment": 3.0}
+{"country": "Brazil", "averageSentiment": 1.0}
+{"country": "United Kingdom", "averageSentiment": 3.0}
+{"country": "United States", "averageSentiment": 4.0}
+{"country": "Canada", "averageSentiment": 2.0}
+{"country": "Costa Rica", "averageSentiment": 2.0}
+{"country": "Brazil", "averageSentiment": 1.0}
+{"country": "United Kingdom", "averageSentiment": 1.0}
